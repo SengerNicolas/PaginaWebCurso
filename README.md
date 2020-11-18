@@ -1,4 +1,4 @@
-# PaginaWebCurso
+# Actividad1
 
 Son mis primeros codigos con respecto a HTML-CSS para la creacion de paginas web.
 Tuve muchos problemas e incovenientes, ya que la solucion de algo me llevaban al problema de otro sector del codigo e hice todo lo posible.
